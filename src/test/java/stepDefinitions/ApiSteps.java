@@ -45,7 +45,7 @@ public class ApiSteps {
         System.out.println("validate the user Email is"+email);
     }
 
-    @And("validat the user Status is {string}")
+    @And("validate the user Status is {string}")
     public void validatTheUserStatusIs(String status) {
         System.out.println("validate the user Status is"+status);
     }

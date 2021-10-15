@@ -12,7 +12,7 @@ Feature: Api testing for CRUID operators
     And validate the user Name is "<Name>"
     And validate the user Gender is "<Gender>"
     And validate the user Email is "<Email>"
-    And validat the user Status is "<Status>"
+    And validate the user Status is "<Status>"
 
 
     Examples:
