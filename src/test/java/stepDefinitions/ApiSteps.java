@@ -3,8 +3,9 @@ package stepDefinitions;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
+import pages.ApiValidation;
 
-public class ApiSteps {
+public class ApiSteps extends ApiValidation {
     @Given("user given api url {string}")
     public void userGivenApiUrl(String url) {
         System.out.println("user given api url" + url);

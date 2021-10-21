@@ -3,7 +3,6 @@ Feature: Api testing for CRUID operators
   Background:
     Given user given api url "https://gorest.co.in/"
 
-
   Scenario Outline: Post-Create a new user
     Given set api endpoint "public/v1/users"
     And user create new user with request body "<Name>","<Gender>","<Email>","<Status>"
@@ -20,7 +19,10 @@ Feature: Api testing for CRUID operators
       | big man | male   | bigman@gmail.com | active |
 
 
-#  pipi line siraya sokmak icin kullaniyoruz:
+#  pipe line siraya sokmak icin kullaniyoruz:
 #  ctrl+Alt+L
 #  option+command+L
+
+#  ctrl + spacebar : pom.xml de pom o jar yapiyor. yada yeni versiyon goseriyor
+#  <packaging>jar</packaging>  ... jar sil ve arkasindan ctrl+space yap
 
