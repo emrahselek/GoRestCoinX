@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GoRestCoin" />
+        <module name="GoRestIn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GoRestCoin" target="8" />
+      <module name="GoRestIn" target="8" />
       <module name="testModule" target="8" />
     </bytecodeTargetLevel>
   </component>

@@ -1,0 +1,34 @@
+
+
+https://gorest.co.in/
+
+API Access Token
+dab50780c9941d9e161e14a3b7b041953aebdcc10933381ee5648c1d2a6a0983
+
+//pom dosyasinda JAR yada POM secmek icin bu kisa yolu kullaniyoruz
+<packaging>jar</packaging>
+
+--------------------------
+
+#  pipe line siraya sokmak icin kullaniyoruz:
+#  ctrl+Alt+L
+#  option+command+L
+
+#  ctrl + spacebar : pom.xml de pom o jar yapiyor. yada yeni versiyon goseriyor
+#  <packaging>jar</packaging>  ... jar sil ve arkasindan ctrl+space yap
+
+
+
+# 1-) remote repo clone
+  # code development
+  # commit
+  # remote repo pull to local
+  #update project
+  # push to remote
+
+  #clone from master
+  # create branch
+  # code dev and commit your local code
+  # push your local code to remote branch
+  # create pull request to master
+  # conflict resolve

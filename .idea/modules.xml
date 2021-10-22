@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoRestCoin.iml" filepath="$PROJECT_DIR$/GoRestCoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoRestIn.iml" filepath="$PROJECT_DIR$/GoRestIn.iml" />
     </modules>
   </component>
 </project>
